@@ -7,7 +7,7 @@ const TexWrap = styled.div`
   line-height: 20px;
   margin: auto;
   padding-top: 35px;
-  padding-bottom: 60px;
+  padding-bottom: 70px;
 `
 
 const About = () => {
